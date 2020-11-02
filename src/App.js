@@ -36,8 +36,8 @@ class App extends Component {
           <CyberSecurity></CyberSecurity>
           <DevOps></DevOps>
           <IoT></IoT>
-          <Footer></Footer>
           <ReactJS></ReactJS>
+          <Footer></Footer>
           </div>
         </div>
       </div>
