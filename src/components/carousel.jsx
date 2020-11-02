@@ -21,7 +21,7 @@ export default class Carousel extends Component {
                   <img src="images/cyber_security.jpg" alt="Image" className="img-fluid" />
                   <img src="images/infrastructure_as_code.jpg" alt="Image" className="img-fluid" />
                   <img src="images/IOT.jpg" alt="Image" className="img-fluid" />
-                  <img src="images/react55.png" alt="Image" className="img-fluid" />
+                  <img src="images/reactjs55.png" alt="Image" className="img-fluid" />
                 </div>
                 <div className="custom-direction">
                   <a href="#" className="custom-prev"><span><span className="icon-keyboard_backspace" /></span></a><a href="#" className="custom-next"><span><span className="icon-keyboard_backspace" /></span></a>
