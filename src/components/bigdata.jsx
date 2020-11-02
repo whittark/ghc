@@ -44,7 +44,7 @@ export default class BigData extends Component {
                   <p>The panel expressed a need for greater commercial involvement in the development of quantum computing. There was also a call to bring non-traditional thinkers into this field. They stressed that you don’t have to be a physicist to get involved. Those with a background in machine learning and advanced algebraic mathematics may find inroads within this burgeoning field.</p>
                   <p>Near-term goals:</p>
                   <ul>
-                    <li>Enhancing the computers built out of quantum systems. Currently, they are very sensitive and noisy. To start, the idea is to do something on a smaller scale and with fewer qubits  that’s still useful.</li>
+                    <li>Enhancing the computers built out of quantum systems. Currently, they are very sensitive and noisy. To start, the idea is to do something on a smaller scale and with fewer qubits that’s still useful.</li>
                     <li>The panel expressed that it would take a long time to develop a fault-tolerant quantum computer (a computer that can process on a quantum level without interrupting when anomalies are detected).</li>
                     <li>Another challenge is to determine the correct problems to solve. Quantum computing cannot be used to solve every type of problem. The commercial sector can help with this by introducing real-world problems that would be aided by quantum solutions.</li>
                     <li>The future of quantum is collaborative. Quantum chips are now available from within cloud sandboxes that allow non-physicists to access and play. This is exciting, as it expands the circle of this science to the commercial sector. See links below to access IBM's Qiskit.</li>
@@ -102,7 +102,7 @@ export default class BigData extends Component {
                   <h3>Post recovery</h3>
                   <p>More than half reported lingering symptoms even after recovery, including fatigue, chest pain, anxiety, and depression. Over half experienced stigma, including shaming, name calling, blame for spreading, and blame for economic shutdowns.</p>
                   <h3>Lessons learned</h3>
-                  <p>Findings from the study identified new insights not yet reported. It was noted that it doesn’t take  rocket science to make a difference. A simple web presence can make a difference.</p>
+                  <p>Findings from the study identified new insights not yet reported. It was noted that it doesn’t take rocket science to make a difference. A simple web presence can make a difference.</p>
                   <p>Bottlenecks included recruiting a diverse representative pool of participants. Participants were anonymous to protect their health protected data.</p>
                   <h3>Site advancements</h3>
                   <ul>
@@ -112,9 +112,9 @@ export default class BigData extends Component {
                   <h3>Conclusion</h3>
                   <p>The group is now investigating differences in the impact of COVID-19 in communities disproportionally affected.</p>
                   <p>In closing, the presenter asked, “What is your role in the fight against COVID-19 to make a positive impact?” An excellent question. </p>
-                  <h3>Access c19insider.com</h3>
+                  <h3>Access c19Insider.com</h3>
                   <ul>
-                    <li><a href="https://www.c19insider.com/" target="”_blank”">C19 Insider</a></li>
+                    <li><a href="https://www.c19insider.com/" target="”_blank”">C19Insider.com</a></li>
                   </ul>
                 </div>
               </div></div></section>
@@ -167,7 +167,7 @@ export default class BigData extends Component {
                     </ul>
                     <p>If the GPU processing fails, it falls back on the CPU to complete this work.</p>
                     <h3>Ensure that your GPU is well fed</h3>
-                    <p>Moving data between the CPU and GPU is not cheap. It’s as expensive to process less data as it is to process more. Add the following to your GPU plan to ensure that transfers to the GPU are robust: </p>
+                    <p>Moving data between the CPU and GPU is not cheap. It’s just as expensive to process less data as it is to process more. Add the following to your GPU plan to ensure that transfers to the GPU are robust: </p>
                     <ul>
                       <li>Add coalesce batches with large target sizes.</li>
                       <li>Aggregate all columnar data for GPU processing.</li>

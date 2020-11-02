@@ -21,6 +21,7 @@ export default class Carousel extends Component {
                   <img src="images/cyber_security.jpg" alt="Image" className="img-fluid" />
                   <img src="images/infrastructure_as_code.jpg" alt="Image" className="img-fluid" />
                   <img src="images/IOT.jpg" alt="Image" className="img-fluid" />
+                  <img src="images/react55.png" alt="Image" className="img-fluid" />
                 </div>
                 <div className="custom-direction">
                   <a href="#" className="custom-prev"><span><span className="icon-keyboard_backspace" /></span></a><a href="#" className="custom-next"><span><span className="icon-keyboard_backspace" /></span></a>
@@ -62,6 +63,11 @@ export default class Carousel extends Component {
                     <h2 className="section-title mb-3">Internet of things</h2>
                     <p className="lead">Explore the social and ecological benefits of blockchain. Glimpse cities of the future as envisioned by women in tech. </p>
                     <p><a href="#iot-section" className="btn btn-primary mr-2 mb-2">Learn More</a></p>
+                  </div>
+                  <div>
+                    <h2 className="section-title mb-3">ReactJS Development</h2>
+                    <p className="lead">Transform a legacy site into a ReactJS app. </p>
+                    <p><a href="#reactjs-section" className="btn btn-primary mr-2 mb-2">Learn More</a></p>
                   </div>
                 </div>
               </div>
