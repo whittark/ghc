@@ -14,6 +14,7 @@ import Culture from './components/culture';
 import CyberSecurity from './components/cybersecurity';
 import DevOps from './components/devops';
 import IoT from './components/iot';
+import ReactJS from './components/reactjs';
 import Footer from './components/footer';
 
 
@@ -36,6 +37,7 @@ class App extends Component {
           <DevOps></DevOps>
           <IoT></IoT>
           <Footer></Footer>
+          <ReactJS></ReactJS>
           </div>
         </div>
       </div>

@@ -25,6 +25,7 @@ export default class Footer extends Component {
                       <li><a href="#cybersecurity-section" className="smoothscroll">Cyber Security</a></li>
                       <li><a href="#devops-section" className="smoothscroll">DevOps</a></li>
                       <li><a href="#iot-section" className="smoothscroll">IoT</a></li>
+                      <li><a href="#reactjs-section" className="smoothscroll">IoT</a></li>
                     </ul>
                   </div>
                 </div>

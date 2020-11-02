@@ -28,6 +28,7 @@ export default class DevOps extends Component {
                 <div className="col-sm-8 text-left" data-aos="fade">     
                   <h3>DevSecOps challenges</h3>
                   <p>Shikha and Swati shared that as application development expands within the cloud, the responsibilities of DevSecOps teams also increases. The use of microservices overlaps with operations such as upgrades and downgrades, which is also overlapped by security measures to ensure that applications and data are not at risk. </p>
+                  <p style={{color: 'rgb(88, 44, 131)'}}>WT Note: While the presenter mentions Kubernetes and Docker, which are open source container systems and services, the concepts presented apply to other containerized app platforms as well, such as Azure App Service.</p>
                   <p>Imposed upon this is the challenge of getting applications to market quickly, as well as ensuring performance. </p>
                   <p>The solution proposed is to break legacy code into containers. Maintain the code with services to automate processes.</p>
                   <h3>Breaking monoliths into containers</h3>
@@ -35,10 +36,10 @@ export default class DevOps extends Component {
                   <p>The challenge occurs once the application is containerized and requires ongoing upgrade, downgrade, or service maintenance.</p>
                   <h3>Using Kubernetes to automate maintenance tasks </h3>
                   <p>Kubernetes is an open-source container and service manager application. With Kubernetes, you can easily scale, implement services, and upgrade or download with simple commands. These tasks are more easily maintained by grouping nodes into master nodes.</p>
-                  <h3>Nodes and master Nodes</h3>
+                  <h3>Nodes and master nodes</h3>
                   <p>Once nodes are grouped into master nodes, you can monitor and control changes more easily across an application. You can also use operators, custom Kubernetes controllers, that manage applications and their components.</p>
                   <h3>Defining operators</h3>
-                  <p>Operators help DevOpsSec teams to create a design pattern of controllers that maintain nodes and master nodes. Operators take knowledge of an application’s lifecycle to automate checks that were previously manually completed by DevOpsSec teams. </p>
+                  <p>Operators help DevOpsSec teams to create a design pattern of controllers that maintain nodes and master nodes. Operators take knowledge of an application’s lifecycle to automate checks that were previously completed as manual processes by DevOpsSec teams. </p>
                   <p>Access features to build or customize operators for horizonal or vertical scaling of your application or to provide updates that were previously applied manually.</p>
                   <p>Prerequisites to building an operator:</p>
                   <ul>
@@ -121,7 +122,7 @@ export default class DevOps extends Component {
                           <p>For DevOps, the data science used must translate to the DevOps dashboard.</p>
                           <ul>
                             <li>Sharing the dashboard with a business partner can be challenging. Any changes to the dashboard have to be sent again.</li>
-                            <li>For the experience to be interactive, data must be fully accessible and ‘live’ from the user’s end; nor should there be a software download requirement. Data should be accessed from a link that the user bookmarks.</li>
+                            <li>For the experience to be interactive, data must be fully accessible and live from the user’s end; nor should there be a software download requirement. Data should be accessed from a link that the user bookmarks.</li>
                           </ul>
                           <p>Challenges to using commercial dashboard services:</p>
                           <ul>
@@ -148,7 +149,7 @@ export default class DevOps extends Component {
                             <li>Use Kubernetes Autoscale as demand increases or decreases.</li>
                           </ul>
                           <h3>Summary</h3>
-                          <p>This creates an automated dashboard that reflects data in real-time. The solution is both agile and scalable. It also leaves room for customization and design.</p>
+                          <p>This solution creates an automated dashboard that is agile, scalable, and reflects data in real-time. It also leaves room for customization and design.</p>
                         </div>
                       </div>
                     </div></div></div></div></div></section>
