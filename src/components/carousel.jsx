@@ -30,7 +30,7 @@ export default class Carousel extends Component {
                 <div className="owl-carousel slide-one-item-alt-text">
                   <div>
                     <h2 className="section-title mb-3">Featured: Machine learning solutions in healthcare </h2>
-                    <p className="lead">Tap into machine Learning automation to reduce healthcare costs and improve patient outcomes.</p>
+                    <p className="lead">Tap into machine learning automation to reduce healthcare costs and improve patient outcomes.</p>
                     <p><a href="#feature-section" className="btn btn-primary mr-2 mb-2">Learn More</a></p>
                   </div>
                   <div>
@@ -60,7 +60,7 @@ export default class Carousel extends Component {
                   </div>
                   <div>
                     <h2 className="section-title mb-3">Internet of things</h2>
-                    <p className="lead">Explore the social and ecological benefits of Blockchain. Glimpse cities of the future as envisioned by women in tech. </p>
+                    <p className="lead">Explore the social and ecological benefits of blockchain. Glimpse cities of the future as envisioned by women in tech. </p>
                     <p><a href="#iot-section" className="btn btn-primary mr-2 mb-2">Learn More</a></p>
                   </div>
                 </div>
