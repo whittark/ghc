@@ -2,7 +2,7 @@
 	"name": "GHC in under 5",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://whittark.github.io/ghc",
+	"homepage": " https://whittark.github.io/ghc",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
