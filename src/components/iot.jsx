@@ -19,7 +19,7 @@ export default class IoT extends Component {
                 <p style={{fontSize: '13px', fontStyle: 'italic'}}>Carole Corley, Senior Technical Staff Member, IBM</p>
               </div>
                <div className="col-12 text-center" data-aos="fade-up" data-aos-delay>
-                 <img src="images/kubernetes_133.png" alt="Image" className="img-fluid" />
+                 <img src="images/blockchain33.png" alt="Image" className="img-fluid" />
               </div>
               <div className="col-lg-2 text-left" data-aos="fade">
               </div>

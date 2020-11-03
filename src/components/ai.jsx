@@ -27,8 +27,8 @@ export default class AI extends Component {
                   <h3>Where we are with AI technologies</h3>
                   <ul>
                     <li><b style={{color: 'rgb(88, 44, 131)'}}>Narrow AI:</b> Narrow AI is centered on performing specific tasks, such as predicting successful advertising based on user input. This is what we experience widely today.</li>
-                    <li><b style={{color: 'rgb(88, 44, 131)'}}>Broad AI – Disruptive and pervasive:</b> These are collections of AI tasks that share data stores across domains. An example might be population health AI accessing larger data sets used by census AI to predictively map infection rates based on population density.</li>
-                    <li><b style={{color: 'rgb(88, 44, 131)'}}>General AI:</b> Extensive cross-domain data sharing by AI tasks. This results in learning and reasoning. This could be data consumed by multiple, cross-domain AI tasks that result in an alert to local government agencies to quarantine areas identified as burgeoning pandemic hotspots. This could also trigger alerts to cell phone users to avoid a given area.</li>
+                    <li><b style={{color: 'rgb(88, 44, 131)'}}>Broad AI – Disruptive and pervasive:</b> These are collections of AI tasks that share data stores across domains. An example might be a population health AI task accessing larger data sets used by census AI to predictively map infection rates based on population density.</li>
+                    <li><b style={{color: 'rgb(88, 44, 131)'}}>General AI:</b> Extensive cross-domain data sharing by AI tasks. This results in learning and reasoning. This could be data consumed by multiple, cross-domain AI tasks that result in an alert to local government agencies to quarantine areas identified as burgeoning pandemic hotspots. This could also integrate with cellular APIs to notify  users of hotspots via text.</li>
                   </ul>
                   <h3>Steps to implement general AI</h3>
                   <ul>
@@ -88,7 +88,7 @@ export default class AI extends Component {
                         </div>
                         <div className="col-sm-8 text-left" data-aos="fade">
                           <h3>About Mica</h3>
-                          <p>Mica is a realistic digital human rendered in virtual reality and developed by Magic Leap. The creative director and a behavioral scientist at Magic Leap share their journey in developing a virtual human that doesn’t propagate damaging stereotypes about women.</p>
+                          <p>Mica is a realistic digital human rendered in virtual reality and developed by Magic Leap. The creative director and a behavioral scientist at Magic Leap shared their journey in developing a virtual human that doesn’t propagate damaging stereotypes about women.</p>
                           <p style={{color: 'rgb(88, 44, 131)'}}>WT Note: In the presentations, slides depicted test users donning virtual reality headsets to see Mica. When worn, Mica would appear in the room seated accross from them. Test users would then interact.</p>
                           <h3>Creating a digital human within a feminist framework</h3>
                           <p>When Alice first met Mica, she was able to interact as she pleased. This caused Alice to walk away with concerns that this would continue stereotypes of women as passive and objectified. 

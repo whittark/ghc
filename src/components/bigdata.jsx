@@ -106,7 +106,7 @@ export default class BigData extends Component {
                   <p>Bottlenecks included recruiting a diverse representative pool of participants. Participants were anonymous to protect their health protected data.</p>
                   <h3>Site advancements</h3>
                   <ul>
-                    <li>Built an automated toll that uses natural language processing (NLP) to scrape websites for data from first-hand survivors. This created a second pool of data from reputable sources (CNN, New York Times).</li>
+                    <li>Built an automated process that uses natural language processing (NLP) to scrape websites for data from first-hand survivors. This created a second pool of data from reputable sources (CNN, New York Times).</li>
                     <li>Transformed unstructured, distributed data into a machine-readable format that could be used for research.</li>
                   </ul>
                   <h3>Conclusion</h3>
